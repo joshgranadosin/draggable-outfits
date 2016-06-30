@@ -1,0 +1,23 @@
+aside{
+	width: 110px;
+}
+
+div{
+	display: inline-block;
+}
+
+div.box{
+	width: 100px; height: 100px;
+}
+
+div.box.red{
+	background-color: red;
+}
+
+div.box.green{
+	background-color: green;
+}
+
+div.box.blue{
+	background-color: blue;
+}
