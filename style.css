@@ -1,23 +1,26 @@
 aside{
-	width: 110px;
+	width: 100pt;	height: 100vh;
+	background-color: darkgray;
 }
 
-div{
-	display: inline-block;
+aside > label{
+	display: block;
+	text-align: center;
 }
 
 div.box{
-	width: 100px; height: 100px;
+	width: 80pt; height: 80pt;
+	margin:0 auto;
 }
 
-div.box.red{
-	background-color: red;
+div.red{
+	background-color:red;
 }
 
-div.box.green{
-	background-color: green;
+div.blue{
+	background-color:blue;
 }
 
-div.box.blue{
-	background-color: blue;
+div.greeb{
+	background-color:green;
 }
